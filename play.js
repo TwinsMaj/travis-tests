@@ -3,7 +3,7 @@
 	var logger = require('./logger.js');
 
 	function Play(name) {
-		this.name = name || "maja";
+		this.name = name || "maj";
 	}
 
 	
